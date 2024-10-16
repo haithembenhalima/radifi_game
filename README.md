@@ -1,4 +1,4 @@
-# radifi_game
+# Al-Radif Educational Game
 
 A new Flutter project.
 
